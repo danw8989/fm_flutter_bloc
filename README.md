@@ -17,7 +17,7 @@ Generate a new Flutter feature with bloc. Built for the [bloc state management l
 ## Usage 🚀
 
 ```sh
-mason make flutter_bloc_feature --name counter --type bloc --style basic
+mason make fm_feature_bloc --name counter --type bloc --style basic
 ```
 
 ## Variables ✨
