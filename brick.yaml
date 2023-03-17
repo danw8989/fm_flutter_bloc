@@ -1,5 +1,6 @@
 name: fm_feature_bloc
 description: Generate a new Flutter feature with bloc. Built for the bloc state management library.
+repository: https://github.com/danw8989/fm_flutter_bloc
 version: 0.2.2
 
 environment:
