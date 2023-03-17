@@ -37,9 +37,12 @@ mason make flutter_bloc_feature --name counter --type bloc --style basic
 │   │   ├── counter_event.dart
 │   │   └── counter_state.dart
 │   ├── counter.dart
+│   ├── data
+│   │   └── counter_repository.dart
 │   └── view
 │       ├── counter_page.dart
 │       └── view.dart
+```
 ```
 
 [1]: https://github.com/felangel/bloc
